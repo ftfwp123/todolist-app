@@ -9,7 +9,12 @@
 // review code dependencies
 // review code and deploy on ft-fwp user
 const App = () => {
-	return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+	return (
+		<div>
+			<h1>Hello world </h1>
+			<p>I'm Future</p>
+		</div>
+	);
 };
 
 export default App;
