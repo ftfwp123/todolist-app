@@ -7,7 +7,7 @@
 // const TodoList = [{id, name, description, completed, .....}]
 
 // review code dependencies
-
+// review code and deploy on ft-fwp user
 const App = () => {
 	return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
 };
